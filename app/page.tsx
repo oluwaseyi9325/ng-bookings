@@ -55,7 +55,7 @@ export default function LoginPage() {
 
     try {
 
-      const response = await fetch("https://mobile-assessmment.onrender.com/api/login", {
+      const response = await fetch("https://mobile-assessment.onrender.com/api/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
