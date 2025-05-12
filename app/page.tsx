@@ -13,6 +13,7 @@ import {
 } from "@/components/ui/dropdown-menu";
 import Footer from "./_components/footer";
 
+
 const images = [
   "https://ngbookings.com/assets/Swiper8-BjafD1T_.webp",
   "https://ngbookings.com/assets/Swiper4-BQ1QcWUB.webp",
