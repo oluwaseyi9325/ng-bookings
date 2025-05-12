@@ -46,7 +46,7 @@ export default function LoginPage() {
     e.preventDefault();
 
     if (!email || !password) {
-      setError("Please fill in both email and password.");
+      setError("Please fill in both email and password.,");
       return;
     }
 
