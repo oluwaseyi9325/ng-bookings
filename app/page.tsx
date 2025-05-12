@@ -11,7 +11,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import Footer from "./_components/Footer";
+import Footer from "./_components/footer";
 
 const images = [
   "https://ngbookings.com/assets/Swiper8-BjafD1T_.webp",
