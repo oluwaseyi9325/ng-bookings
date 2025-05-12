@@ -35,7 +35,7 @@ export default function LoginPage() {
   }, []);
 
   // Handle form submission
-  const handleSubmit = async (e:any) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
     if (!email || !password) {
